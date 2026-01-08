@@ -1,10 +1,3 @@
-Say less.
-Here’s a **clean, professional, recruiter-ready README** you can drop straight into `README.md`.
-No fluff. No cringe. Pure signal.
-
----
-
-```markdown
 # Config Contract Checker
 
 A **C++-based configuration contract checker** with a **Spring Boot web UI** that validates system configuration files against explicit rules *before runtime*.
