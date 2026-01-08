@@ -1,0 +1,18 @@
+checker.exe
+java-wrapper/*.class
+.vscode/
+
+# Java / Maven
+target/
+*.class
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Optional: keep exe or not (see note below)
+# checker.exe

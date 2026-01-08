@@ -1,0 +1,4 @@
+cache_enabled=true
+cache_size=512
+mode=production
+debug=true

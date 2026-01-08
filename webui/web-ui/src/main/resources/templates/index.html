@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Config Contract Checker</title>
+</head>
+<body>
+    <h2>Config Contract Checker</h2>
+
+    <form method="post" action="/validate" enctype="multipart/form-data">
+        <p>
+            Config File:
+            <input type="file" name="configFile" required>
+        </p>
+
+        <p>
+            Contract File:
+            <input type="file" name="contractFile" required>
+        </p>
+
+        <button type="submit">Validate</button>
+    </form>
+    <div th:if="${hasViolations}">
+        <h3 style="color:red;">❌ Violations Found</h3>
+
+        <div th:each="v : ${violations}"
+            style="border:1px solid #ff4d4d; padding:10px; margin:8px 0; background:#ffecec;">
+            <strong th:text="${v.message}"></strong>
+        </div>
+    </div>
+
+    <div th:if="${hasViolations == false}">
+        <h3 style="color:green;">✅ Configuration is valid</h3>
+    </div>
+</body>
+</html>

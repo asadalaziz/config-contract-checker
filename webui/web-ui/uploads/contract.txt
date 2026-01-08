@@ -1,0 +1,2 @@
+IF cache_enabled=true THEN cache_size<=256
+IF mode=production THEN debug=false
